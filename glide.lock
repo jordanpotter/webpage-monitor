@@ -1,0 +1,17 @@
+hash: 50c2815b6f33a61ea8f6c63ff51f74c688fd7ed76abdc07b13d02e43ffa14807
+updated: 2017-05-29T21:17:46.162970809-07:00
+imports:
+- name: github.com/andybalholm/cascadia
+  version: 349dd0209470eabd9514242c688c403c0926d266
+- name: github.com/gregdel/pushover
+  version: 3c2e00dda05a0225e30f21659b7d9399278bf4a1
+- name: github.com/pkg/errors
+  version: 645ef00459ed84a119197bfb8d8205042c6df63d
+- name: github.com/PuerkitoBio/goquery
+  version: e1271ee34c6a305e38566ecd27ae374944907ee9
+- name: golang.org/x/net
+  version: 3da985ce5951d99de868be4385f21ea6c2b22f24
+  subpackages:
+  - html
+  - html/atom
+testImports: []
